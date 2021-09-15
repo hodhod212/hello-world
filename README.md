@@ -21,3 +21,13 @@
 # git commit -a -m "Updated index.html with a new line"
 
 # git help --all
+
+# git checkout hello-world-images
+
+# git checkout -b emergency-fix
+
+# git checkout master
+
+# git merge emergency-fix
+
+# git branch -d emergency-fix

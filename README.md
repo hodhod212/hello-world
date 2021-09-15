@@ -31,3 +31,9 @@
 # git merge emergency-fix
 
 # git branch -d emergency-fix
+
+# git branch hello-world-images
+
+# git branch
+
+# git commit -m "Added image to Hello World"

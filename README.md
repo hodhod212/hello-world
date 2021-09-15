@@ -25,3 +25,5 @@
 # git branch hello-world-images
 
 # git branch
+
+# git commit -m "Added image to Hello World"

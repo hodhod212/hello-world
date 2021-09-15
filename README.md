@@ -21,3 +21,7 @@
 # git commit -a -m "Updated index.html with a new line"
 
 # git help --all
+
+# git branch hello-world-images
+
+# git branch
